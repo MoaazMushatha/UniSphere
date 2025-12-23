@@ -53,7 +53,7 @@ Moaaz Mushatha
 https://github.com/MoaazMushatha
 ## Screenshots
 
-![Spalsh screen](assets/screenshots/SplashScreen.jpg)
-![Home screen](assets/screenshots/home.jpg)
-![Profile screen](assets/screenshots/Profile.jpg)
+![Spalsh screen](/assets/screenshots/SplashScreen.jpg)
+![Home screen](/assets/screenshots/home.jpg)
+![Profile screen](/assets/screenshots/Profile.jpg)
 
