@@ -52,7 +52,6 @@ MIT License
 Moaaz Mushatha  
 https://github.com/MoaazMushatha
 ## Screenshots
-
-![Spalsh screen](/assets/screenshots/SplashScreen.jpg)
-![Home screen](/assets/screenshots/home.jpg)
-![Profile screen](/assets/screenshots/Profile.jpg)
+![Splash screen](assets/screenshots/SplashScreen.jpg)
+![Home screen](assets/screenshots/home.jpg)
+![Profile screen](assets/screenshots/Profile.jpg)
