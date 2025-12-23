@@ -56,4 +56,3 @@ https://github.com/MoaazMushatha
 ![Spalsh screen](/assets/screenshots/SplashScreen.jpg)
 ![Home screen](/assets/screenshots/home.jpg)
 ![Profile screen](/assets/screenshots/Profile.jpg)
-
